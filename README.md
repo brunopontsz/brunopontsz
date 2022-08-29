@@ -8,8 +8,7 @@
 
 
 ### About me
-# Teste
-# bruno ponte
+ Tenho 20 anos.
 ### My Skills and Experiences
 
 <div>
