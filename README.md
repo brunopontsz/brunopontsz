@@ -8,7 +8,7 @@
 
 
 ### About me
- Tenho 20 anos.
+
 ### My Skills and Experiences
 
 <div>
